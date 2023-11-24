@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luciDevOp
 - 👀 I’m interested in learning the depths of programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python/JavaScript(React, Node.js)
 - 💞️ I’m looking to collaborate on Open Projects
 - 📫 How to reach me ungureanu.lucian04@yahoo.com/ungureanu.lucian121@gmail.com
 
